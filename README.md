@@ -30,5 +30,5 @@ Desplegable gratis en Vercel o Netlify (`npm run build` genera la carpeta `dist`
 
 ## Nota
 
-Proyecto de aprendizaje: los datos (precios, teléfono, dirección) son ficticios. Se usa como
-muestra de diseño en el portafolio de Angel Aguilar.
+"Nexus Gym" es un negocio ficticio de demostración: los datos (precios, teléfono, dirección) no
+corresponden a un establecimiento real.
